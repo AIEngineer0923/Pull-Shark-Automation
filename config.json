@@ -1,0 +1,14 @@
+{
+  "repo_path": ".",
+  "base_branch": "main",
+  "readme_file": "README.md",
+  "pr_count": 2000,
+  "delay_seconds": 30,
+  "auto_merge": true,
+  "dry_run": false,
+  "max_retries": 3,
+  "use_free_proxies": true,
+  "max_concurrent": 10,
+  "discord_webhook": "",
+  "slack_webhook": ""
+}
